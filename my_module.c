@@ -17,7 +17,7 @@ void Sub() // »©±â
 void Mul() // °öÇÏ±â
 {
 	int a, b;
-	a * b;
+	a * b; // ÁÖ¼®
 }
 
 int main() 
