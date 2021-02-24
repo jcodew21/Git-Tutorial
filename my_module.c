@@ -20,12 +20,18 @@ void Mul() // °öÇÏ±â
 	a * b; // ÁÖ¼®
 }
 
+void Div() // °öÇÏ±â
+{
+	int a, b;
+	a / b;
+}
+
 int main() 
 {
 	Add();
 	Sub();
 	Mul();
-
+	Div();
 
 	return 0;
 }
