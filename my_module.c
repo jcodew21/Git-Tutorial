@@ -2,13 +2,13 @@
 
 // 사칙연산 프로그램
 
-void Add()
+void Add() // 더하기
 {
 	int a, b;
 	a + b;
 }
 
-void Sub()
+void Sub() // 빼기
 {
 	int a, b;
 	a - b;
