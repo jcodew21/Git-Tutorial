@@ -14,10 +14,17 @@ void Sub() // »©±â
 	a - b;
 }
 
+void Mul() // °öÇÏ±â
+{
+	int a, b;
+	a * b;
+}
+
 int main() 
 {
 	Add();
 	Sub();
+	Mul();
 
 
 	return 0;
