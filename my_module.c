@@ -17,10 +17,10 @@ void Sub() // 빼기
 void Mul() // 곱하기
 {
 	int a, b;
-	a * b; // 주석
+	a * b; 
 }
 
-void Div() // 곱하기
+void Div() // 나누기
 {
 	int a, b;
 	a / b;
