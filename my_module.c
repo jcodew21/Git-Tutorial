@@ -23,7 +23,7 @@ void Mul() // 곱하기
 void Div() // 나누기
 {
 	int a, b;
-	a / b;
+	a / b; // 주석 주석석
 }
 
 int main() 
